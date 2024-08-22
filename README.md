@@ -34,3 +34,6 @@ Fig 4:- Customer Details -> Tells about customers, their spending, revenue gener
 
 
 https://github.com/user-attachments/assets/646f868f-4e18-4b4d-91ac-d5c158d7732b
+
+![Table Relation](https://github.com/user-attachments/assets/869511eb-724f-4d83-b377-3854ef455d87)
+
