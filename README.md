@@ -23,7 +23,14 @@ Fig 3:- Exec Dashboard -> This is the main and welcoming dashboard that does pre
 
 
 
+
+
+
+
 ![Customers Details](https://github.com/user-attachments/assets/969e5ced-2642-4bad-83dc-1a88e996bdeb)
 
 Fig 4:- Customer Details -> Tells about customers, their spending, revenue generated from them, their incomes, top customer accourding to revenue collection, etc.
 
+
+
+https://github.com/user-attachments/assets/646f868f-4e18-4b4d-91ac-d5c158d7732b
